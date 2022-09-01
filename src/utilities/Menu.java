@@ -1,4 +1,4 @@
-package utilities
+package utilities;
 
 class Menu {
 // this is a menu
